@@ -35,7 +35,7 @@
 */
 $active_group = "default";
 $active_record = TRUE;
-$db['default']['hostname'] = "108.167.191.197";
+$db['default']['hostname'] = "https://108.167.191.197";
 $db['default']['username'] = "everpay_master";
 $db['default']['password'] = 'everpay_jasmine8075';
 $db['default']['database'] = "everpay_elektropay";
