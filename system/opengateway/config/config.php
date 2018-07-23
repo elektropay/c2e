@@ -14,7 +14,7 @@
 |	http://example.com/
 |
 */
-$config['base_url']	= "https://elektro-c2e.herokuapp.com/";
+$config['base_url']	= "http://elektro-c2e.herokuapp.com/";
 
 /*
 |--------------------------------------------------------------------------
@@ -28,7 +28,7 @@ $config['query_result_default_limit'] = 100;
 $config['recurring_charge_failures_allowed'] = 1;
 $config['support_url'] = 'http://support.elektropay.com';
 $config['ssl_active'] = false;
-$config['cron_key'] = '0000000000000000';
+$config['cron_key'] = '328082f4f61f4526b7546b3501c719c4';
 $config['currency_symbol'] = '$';
 
 // Show Dashboard Chart
@@ -59,7 +59,7 @@ $config['queue_process_limit'] = 20;
 | enabled you MUST set an encryption key.  See the user guide for info.
 |
 */
-$config['encryption_key'] = "10101010101010101010101010";
+$config['encryption_key'] = "de308bbdb8d615aca7bfc944eb219400";
 
 /* END MANDATORY CONFIGURATION */
 
