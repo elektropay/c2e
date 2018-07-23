@@ -14,7 +14,7 @@
 |	http://example.com/
 |
 */
-$config['base_url']	= "http://platform.opengateway.net/";
+$config['base_url']	= "https://elektro-c2e.herokuapp.com/";
 
 /*
 |--------------------------------------------------------------------------
@@ -22,11 +22,11 @@ $config['base_url']	= "http://platform.opengateway.net/";
 |--------------------------------------------------------------------------
 |
 */
-$config['server_name'] = 'OpenGateway';
+$config['server_name'] = 'ElektroPay';
 $config['max_recurring_days_from_today'] = 730;
 $config['query_result_default_limit'] = 100;
 $config['recurring_charge_failures_allowed'] = 1;
-$config['support_url'] = 'http://help.electricfunction.com';
+$config['support_url'] = 'http://support.elektropay.com';
 $config['ssl_active'] = false;
 $config['cron_key'] = '0000000000000000';
 $config['currency_symbol'] = '$';
