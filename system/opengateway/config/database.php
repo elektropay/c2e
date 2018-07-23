@@ -35,10 +35,10 @@
 */
 $active_group = "default";
 $active_record = TRUE;
-$db['default']['hostname'] = "wiad5ra41q8129zn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-$db['default']['username'] = "ba7c7d97f12d5e";
-$db['default']['password'] = 'g78kx8ftayj1myrw';
-$db['default']['database'] = "xek52uycxcwhxvvr";
+$db['default']['hostname'] = "108.167.191.197";
+$db['default']['username'] = "everpay_master";
+$db['default']['password'] = 'jasmine8075';
+$db['default']['database'] = "everpay_elektropay";
 $db['default']['dbdriver'] = "mysqli";
 $db['default']['dbprefix'] = "";
 $db['default']['pconnect'] = TRUE;
